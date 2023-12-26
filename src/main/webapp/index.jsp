@@ -1,34 +1,43 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My ASM2 Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        h1 {
+            color: #333;
+        }
 
-    <title>Hello DevOps Students!</title>
-  </head>
-  <body>
+        p {
+            color: #555;
+        }
 
-    <!-- The content of the website starts here now! -->
-    <div class="jumbotron">
-      <h1 class="display-4"> Hello world for DevOps Students!</h1>
-      <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
-      <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
-      <hr class="my-4">
-      <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
-      <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
-      <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
-      <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
+        .info {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello, It's Maven Tomcat EC2 Project Website!</h1>
+    <p>This is a simple JSP page for my project.</p>
+
+    <div class="info">
+        <p>My name is Anh Huynh.</p>
+        <p>My sID is 3836320.</p>
+        <p>My major is Information Technology.</p>
+        <p>Skills: SQL, Python/Java/Scala, Relational Databases, NoSQL Databases, Hadoop, Apache Spark, Data Warehousing, Data Modeling, ETL Tools (e.g., Apache NiFi, Talend), Workflow Management (e.g., Apache Airflow), Data Integration, Data Quality and Governance, Cloud Platforms (e.g., AWS, Azure, Google Cloud), Version Control (e.g., Git), Collaboration and Communication, Troubleshooting and Problem-Solving, Security (Data Security Best Practices), Continuous Learning.</p>
+        <p>I am a data lover.</p>
+        <p>Interested in the tech industry, especially in Fintech and Game (RIOT).</p>
     </div>
-    <!-- The content of the website ends here! -->
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-  </body>
+</body>
 </html>
