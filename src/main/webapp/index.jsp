@@ -28,7 +28,7 @@
     </style>
 </head>
 <body>
-    <h1>HIIIIII, It's Maven Tomcat EC2 Project Website!</h1>
+    <h1>HELOOOOOOO, It's Maven Tomcat EC2 Project Website!</h1>
     <p>This is a simple JSP page for my project.</p>
 
     <div class="info">
